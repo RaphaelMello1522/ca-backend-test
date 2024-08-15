@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ca-backend-test/FileContentIndex
+/.vs/ca-backend-test/v17
+/.vs/Faturamento/v17
+/.vs/Faturamento/FileContentIndex
+/.vs/Faturamento/config
+/.vs
